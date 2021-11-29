@@ -1,1 +1,1 @@
-#Code developed while working through Effective Go
+# Code developed while working through Effective Go
